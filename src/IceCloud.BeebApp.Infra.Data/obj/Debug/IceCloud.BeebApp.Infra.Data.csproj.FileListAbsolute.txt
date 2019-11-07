@@ -1,0 +1,15 @@
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Infra.Data\bin\Debug\IceCloud.BeebApp.Infra.Data.dll.config
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Infra.Data\bin\Debug\IceCloud.BeebApp.Infra.Data.dll
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Infra.Data\bin\Debug\IceCloud.BeebApp.Infra.Data.pdb
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Infra.Data\bin\Debug\IceCloud.BeebApp.Domain.dll
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Infra.Data\bin\Debug\IceCloud.BeebApp.Domain.pdb
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Infra.Data\obj\Debug\IceCloud.BeebApp.Infra.Data.csprojAssemblyReference.cache
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Infra.Data\obj\Debug\IceCloud.BeebApp.Infra.Data.csproj.CopyComplete
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Infra.Data\obj\Debug\IceCloud.BeebApp.Infra.Data.dll
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Infra.Data\obj\Debug\IceCloud.BeebApp.Infra.Data.pdb
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Infra.Data\bin\Debug\Dapper.dll
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Infra.Data\bin\Debug\Dapper.xml

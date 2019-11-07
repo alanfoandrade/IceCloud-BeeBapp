@@ -1,0 +1,5 @@
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Domain\bin\Debug\IceCloud.BeebApp.Domain.dll
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Domain\bin\Debug\IceCloud.BeebApp.Domain.pdb
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Domain\obj\Debug\IceCloud.BeebApp.Domain.csprojAssemblyReference.cache
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Domain\obj\Debug\IceCloud.BeebApp.Domain.dll
+C:\Users\alani\source\repos\BeebApp\src\IceCloud.BeebApp.Domain\obj\Debug\IceCloud.BeebApp.Domain.pdb

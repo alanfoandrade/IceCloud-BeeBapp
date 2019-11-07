@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Services", "2 - Services", "{875667CA-0526-417B-8D9E-104A072834B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Application", "3 - Application", "{9FCD0BD8-A0AA-4D3A-A439-5D32519EF3DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Domain", "4 - Domain", "{0DFCE867-09A3-4579-A399-30A8209DB3C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Infra", "5 - Infra", "{670B3938-EB6A-470B-9552-F93EFE652A25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.1 - Data", "5.1 - Data", "{3B3E44E0-920F-4BD8-82FE-8B5E1F8903F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.2 - CrossCutting", "5.2 - CrossCutting", "{83FDE535-6820-472A-BCE8-195869B9B18E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - Tests", "6 - Tests", "{E5DC482A-AB18-4BCA-B658-060330291FF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCloud.BeebApp.Domain", "src\IceCloud.BeebApp.Domain\IceCloud.BeebApp.Domain.csproj", "{E5A083CC-D965-4391-A47C-464D96111EB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCloud.BeebApp.Infra.Data", "src\IceCloud.BeebApp.Infra.Data\IceCloud.BeebApp.Infra.Data.csproj", "{53056FEC-3C21-470F-8D71-CE7DD3D26759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCloud.BeebApp.Application", "src\IceCloud.BeebApp.Application\IceCloud.BeebApp.Application.csproj", "{8AF88A44-62B1-4E93-A542-8170B4E58373}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{701A536B-EE85-4A24-A5F1-0CA97843FFED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCloud.BeebApp.UI.SiteSolucao", "src\IceCloud.BeebApp.UI.SiteSolucao\IceCloud.BeebApp.UI.SiteSolucao.csproj", "{07009399-DC8E-4959-A67D-9CE604B708E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCloud.BeebApp.Infra.CrossCutting.Filters", "src\IceCloud.BeebApp.Infra.CrossCutting.Filters\IceCloud.BeebApp.Infra.CrossCutting.Filters.csproj", "{FDB46092-8A42-4EB4-997C-7811BA18B380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5A083CC-D965-4391-A47C-464D96111EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A083CC-D965-4391-A47C-464D96111EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A083CC-D965-4391-A47C-464D96111EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A083CC-D965-4391-A47C-464D96111EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53056FEC-3C21-470F-8D71-CE7DD3D26759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53056FEC-3C21-470F-8D71-CE7DD3D26759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53056FEC-3C21-470F-8D71-CE7DD3D26759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53056FEC-3C21-470F-8D71-CE7DD3D26759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF88A44-62B1-4E93-A542-8170B4E58373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF88A44-62B1-4E93-A542-8170B4E58373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF88A44-62B1-4E93-A542-8170B4E58373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF88A44-62B1-4E93-A542-8170B4E58373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07009399-DC8E-4959-A67D-9CE604B708E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07009399-DC8E-4959-A67D-9CE604B708E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07009399-DC8E-4959-A67D-9CE604B708E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07009399-DC8E-4959-A67D-9CE604B708E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDB46092-8A42-4EB4-997C-7811BA18B380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB46092-8A42-4EB4-997C-7811BA18B380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB46092-8A42-4EB4-997C-7811BA18B380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB46092-8A42-4EB4-997C-7811BA18B380}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3B3E44E0-920F-4BD8-82FE-8B5E1F8903F7} = {670B3938-EB6A-470B-9552-F93EFE652A25}
+		{83FDE535-6820-472A-BCE8-195869B9B18E} = {670B3938-EB6A-470B-9552-F93EFE652A25}
+		{E5A083CC-D965-4391-A47C-464D96111EB1} = {0DFCE867-09A3-4579-A399-30A8209DB3C9}
+		{53056FEC-3C21-470F-8D71-CE7DD3D26759} = {3B3E44E0-920F-4BD8-82FE-8B5E1F8903F7}
+		{8AF88A44-62B1-4E93-A542-8170B4E58373} = {9FCD0BD8-A0AA-4D3A-A439-5D32519EF3DB}
+		{07009399-DC8E-4959-A67D-9CE604B708E7} = {701A536B-EE85-4A24-A5F1-0CA97843FFED}
+		{FDB46092-8A42-4EB4-997C-7811BA18B380} = {83FDE535-6820-472A-BCE8-195869B9B18E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8C78C28-D011-4A4B-BE42-9E80A641A4B8}
+	EndGlobalSection
+EndGlobal
